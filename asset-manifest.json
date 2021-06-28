@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cyrdodi-profile/static/css/main.a1b6afb6.chunk.css",
-    "main.js": "/cyrdodi-profile/static/js/main.1f92e0ea.chunk.js",
-    "main.js.map": "/cyrdodi-profile/static/js/main.1f92e0ea.chunk.js.map",
+    "main.js": "/cyrdodi-profile/static/js/main.63e0a6eb.chunk.js",
+    "main.js.map": "/cyrdodi-profile/static/js/main.63e0a6eb.chunk.js.map",
     "runtime-main.js": "/cyrdodi-profile/static/js/runtime-main.ebe7480b.js",
     "runtime-main.js.map": "/cyrdodi-profile/static/js/runtime-main.ebe7480b.js.map",
     "static/js/2.975948a3.chunk.js": "/cyrdodi-profile/static/js/2.975948a3.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ebe7480b.js",
     "static/js/2.975948a3.chunk.js",
     "static/css/main.a1b6afb6.chunk.css",
-    "static/js/main.1f92e0ea.chunk.js"
+    "static/js/main.63e0a6eb.chunk.js"
   ]
 }
